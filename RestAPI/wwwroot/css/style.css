@@ -1,0 +1,11 @@
+﻿body {
+    font-family: 'Pangolin', cursive;
+}
+
+.content {
+    background-color: #c6bebe;
+    margin: 3px;
+    padding: 20px;
+    border: .5px solid;
+}
+
